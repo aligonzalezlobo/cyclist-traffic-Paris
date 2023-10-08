@@ -13,6 +13,15 @@ The task involves finding an optimal estimator to predict cyclist traffic in Par
 
 ## Data
 
+We would like to emphasize that all external data sources added to this project were obtained from open-license databases. Ensuring the availability of open data was a critical aspect of our project, as it allowed us to enrich our analysis and enhance the predictive capabilities of our models.
+
+However, it's worth noting that finding suitable external datasets posed a unique challenge. The challenge wasn't just about identifying relevant data but also ensuring that the data was compatible and could be effectively integrated with our existing dataset. This involved matching data based on location, time, and other relevant attributes, which sometimes required creative solutions due to differences in data formats and structures.
+
+The collaborative nature of open data initiatives played a pivotal role in our ability to access and use these datasets. We'd like to express our gratitude to the organizations and individuals who contributed to these open-license databases, as their efforts were instrumental in the success of our project.
+
+For a comprehensive list of all the references, sources, and web pages used throughout this project, please refer to the "References" section at the end of this README file.
+
+
 ### Original Data
 The original dataset contains hourly information about cyclist traffic, including features like counter name, counter site name, date, counter installation date, latitude, and longitude. Some variables were dropped as they were redundant.
 
